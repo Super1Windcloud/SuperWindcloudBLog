@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SuperWindcloud BLog Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on SuperWindcloud BLog Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Dec 2024 09:43:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人介绍</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Dec 2024 09:43:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;热爱开源项目开源技术-喜欢全栈开发--对尝试新鲜领域技术乐此不疲充满激情-喜欢思考问题和解决问题-对函数式编程感兴趣-喜欢学习心理学脑科学&#34;&gt;热爱开源项目，开源技术 ,喜欢全栈开发,  对尝试新鲜领域技术乐此不疲,充满激情; 喜欢思考问题和解决问题, 对函数式编程感兴趣; 喜欢学习心理学,脑科学&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;了解编程语言-c-c-javagolangrust-zig-pythontypescript--javascript-clojure--vue---rubyphp-lua-kotlin-dartpowershellhaskell-scalaelixir-perlocamlgroovy--nim--pascal-crystal-julia-vlang-mojoracket&#34;&gt;了解编程语言 c++ ,c#, java，Golang，rust, zig, Python,typescript , JavaScript ,clojure,  Vue  , Ruby，PHP ,lua, kotlin, dart，Powershell,haskell ,Scala,Elixir ,Perl,OCaml,Groovy,  nim , Pascal, crystal ,Julia ,Vlang ,mojo,Racket&lt;/h3&gt;&#xA;&lt;h2 id=&#34;了解深度学习-cvnlp---游戏引擎unity-unreal5&#34;&gt;了解深度学习 CV，nlp,   游戏引擎Unity unreal5;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;乐于使用无痛感且有益身心健康-延年益寿不易七窍流血-英年早逝的编程语言--俗话说-人生苦短及时行乐-不要将有限的生命浪费在无限的试错之上&#34;&gt;乐于使用无痛感且有益身心健康, 延年益寿,不易七窍流血, 英年早逝的编程语言 , 俗话说, 人生苦短,及时行乐, 不要将有限的生命浪费在无限的试错之上&amp;hellip;&amp;hellip;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;热爱--rust-jsts---python-go----kotlin--dart---javaphp-ruby&#34;&gt;&lt;em&gt;热爱  rust ,JS/TS  , python, go  ,  kotlin  ,dart  , Java,php, ruby&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gitee.com/superwindcloud&#34;&gt;https://gitee.com/superwindcloud&lt;/a&gt;, &lt;a href=&#34;https://github.com/Super1Windcloud&#34;&gt;https://github.com/Super1Windcloud&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
